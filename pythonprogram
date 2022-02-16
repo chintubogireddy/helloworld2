@@ -1,5 +1,5 @@
 sum=0
-x=input("enter value")
-y=input("enter integer")
+x=int(input("enter value"))
+y=int(input("enter integer"))
 z=x+y
 print(z)
