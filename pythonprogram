@@ -1,0 +1,5 @@
+sum=0
+x=int(input("enter value"))
+y=int(input("enter integer"))
+z=x+y
+print(z)
